@@ -2,11 +2,12 @@
 
 This is a program that will emulate all the docking stations, bikes, and infrastructure.
 
-Objects	       | Messages
--------------------------------
-Person	        |
-Bike	          | working?
-DockingStation |	release_bike
+|Objects 		   	  |       Messages     |
+|----------------|--------------------|
+|Person		        |		                  |
+|Bike				        |     Working?       |
+|Docking station	|   	Release_bike    |
+
 
 ## Why
 
