@@ -2,11 +2,20 @@
 
 This is a program that will emulate all the docking stations, bikes, and infrastructure.
 
+Objects	       | Messages
+-------------------------------
+Person	        |
+Bike	          | working?
+DockingStation |	release_bike
+
 ## Why
 
 We are doing this as if Boris Bikes didn't exist yet. So, just pretend it's new, ok?
  
 ## Build status 
+
+
+
 
 ## Code style
 
