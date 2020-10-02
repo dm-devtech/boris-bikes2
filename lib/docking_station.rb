@@ -7,10 +7,13 @@ class DockingStation
  end
 
  def dock(bike)
-   bike 
+   bike
+ end
+
+ def printdocked
  end
 
  def bike
+ end
 
- end 
 end
