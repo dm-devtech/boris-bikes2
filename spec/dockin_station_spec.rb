@@ -14,9 +14,7 @@ describe DockingStation do
   it 'docks something' do
     bike = Bike.new
     newdockingstation = DockingStation.new
-    expect(newdockingstation.dock(bike)).to eq bike
+    expect(newdockingstation.dock(bike)).to eq(bike)
   end
-
-  it { is_expected.to respond_to(:printdocked)}
 
 end
